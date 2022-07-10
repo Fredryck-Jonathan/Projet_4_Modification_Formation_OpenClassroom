@@ -4224,7 +4224,8 @@ fieldset[disabled] .btn-link:hover {
 
 .btn-block {
     display: block;
-    width: 100%
+    width: 90%
+    
 }
 
 .btn-block+.btn-block {
